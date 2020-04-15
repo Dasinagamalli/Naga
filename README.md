@@ -1,2 +1,0 @@
-# Naga
-ITS MY FIRST REPO
